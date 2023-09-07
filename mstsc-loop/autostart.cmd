@@ -1,0 +1,1 @@
+start C:\mstsc\mstsc-loop\hide-cmd.vbs
