@@ -1,3 +1,3 @@
 start mstsc.exe
 sleep 3
-start hide-autoshutdon.vbs
+start C:\mstsc\shutdown-then-mstsc-close\hide-autoshutdon.vbs
