@@ -1,0 +1,6 @@
+﻿Windows Registry Editor Version 5.00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Winlogon]
+"Shell"="C:\\Windows\\System32\\cmd.exe /C \"C:\\mstsc\\mstsc-loop\\autostart.cmd\""
+
+
