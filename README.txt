@@ -1,7 +1,6 @@
 Чтобы ввести mstsc в автозагрузку с выключенным explorer нужно:
 Поместить папку со скриптами "mstsc" в корень диска C:
-Пройти по пути реестра: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Winlogon
-Значение параметра "Shell" нужно поменять на C:\Windows\System32\cmd.exe /C "C:\mstsc\mstsc-loop\autostart.cmd"
+Выполнить импорировать .reg файл с права администратора.
 Нажать "Ок"
 И перезагрузить ПК
 
